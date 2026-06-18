@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Proyecto de Datos\Proyecto de Datos\bin\Debug\net10.0\Proyecto de Datos.exe
+C:\Users\DELL\source\repos\Proyecto de Datos\Proyecto de Datos\bin\Debug\net10.0\Proyecto de Datos.deps.json
+C:\Users\DELL\source\repos\Proyecto de Datos\Proyecto de Datos\bin\Debug\net10.0\Proyecto de Datos.runtimeconfig.json
+C:\Users\DELL\source\repos\Proyecto de Datos\Proyecto de Datos\bin\Debug\net10.0\Proyecto de Datos.dll
+C:\Users\DELL\source\repos\Proyecto de Datos\Proyecto de Datos\bin\Debug\net10.0\Proyecto de Datos.pdb
+C:\Users\DELL\source\repos\Proyecto de Datos\Proyecto de Datos\obj\Debug\net10.0\Proyecto de Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Proyecto de Datos\Proyecto de Datos\obj\Debug\net10.0\Proyecto de Datos.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Proyecto de Datos\Proyecto de Datos\obj\Debug\net10.0\Proyecto de Datos.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Proyecto de Datos\Proyecto de Datos\obj\Debug\net10.0\Proyecto de Datos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Proyecto de Datos\Proyecto de Datos\obj\Debug\net10.0\Proyecto de Datos.dll
+C:\Users\DELL\source\repos\Proyecto de Datos\Proyecto de Datos\obj\Debug\net10.0\refint\Proyecto de Datos.dll
+C:\Users\DELL\source\repos\Proyecto de Datos\Proyecto de Datos\obj\Debug\net10.0\Proyecto de Datos.pdb
+C:\Users\DELL\source\repos\Proyecto de Datos\Proyecto de Datos\obj\Debug\net10.0\Proyecto de Datos.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Proyecto de Datos\Proyecto de Datos\obj\Debug\net10.0\ref\Proyecto de Datos.dll
