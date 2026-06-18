@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Datos II Proyecto 2\Datos II Proyecto 2\bin\Debug\net10.0\Datos II Proyecto 2.exe
+C:\Users\DELL\source\repos\Datos II Proyecto 2\Datos II Proyecto 2\bin\Debug\net10.0\Datos II Proyecto 2.deps.json
+C:\Users\DELL\source\repos\Datos II Proyecto 2\Datos II Proyecto 2\bin\Debug\net10.0\Datos II Proyecto 2.runtimeconfig.json
+C:\Users\DELL\source\repos\Datos II Proyecto 2\Datos II Proyecto 2\bin\Debug\net10.0\Datos II Proyecto 2.dll
+C:\Users\DELL\source\repos\Datos II Proyecto 2\Datos II Proyecto 2\bin\Debug\net10.0\Datos II Proyecto 2.pdb
+C:\Users\DELL\source\repos\Datos II Proyecto 2\Datos II Proyecto 2\obj\Debug\net10.0\Datos II Proyecto 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Datos II Proyecto 2\Datos II Proyecto 2\obj\Debug\net10.0\Datos II Proyecto 2.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Datos II Proyecto 2\Datos II Proyecto 2\obj\Debug\net10.0\Datos II Proyecto 2.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Datos II Proyecto 2\Datos II Proyecto 2\obj\Debug\net10.0\Datos II Proyecto 2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Datos II Proyecto 2\Datos II Proyecto 2\obj\Debug\net10.0\Datos II Proyecto 2.dll
+C:\Users\DELL\source\repos\Datos II Proyecto 2\Datos II Proyecto 2\obj\Debug\net10.0\refint\Datos II Proyecto 2.dll
+C:\Users\DELL\source\repos\Datos II Proyecto 2\Datos II Proyecto 2\obj\Debug\net10.0\Datos II Proyecto 2.pdb
+C:\Users\DELL\source\repos\Datos II Proyecto 2\Datos II Proyecto 2\obj\Debug\net10.0\Datos II Proyecto 2.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Datos II Proyecto 2\Datos II Proyecto 2\obj\Debug\net10.0\ref\Datos II Proyecto 2.dll
