@@ -1,0 +1,6 @@
+﻿  Semestre_4.cpp
+C:\Users\DELL\OneDrive\Documentos\UDO\4to Semestre\Datos III\Codigos\Semestre_4\Semestre_4\Semestre_4.cpp(204,7): warning C4101: 'caracter': variable local sin referencia
+C:\Users\DELL\OneDrive\Documentos\UDO\4to Semestre\Datos III\Codigos\Semestre_4\Semestre_4\Semestre_4.cpp(92,1): warning C4715: 'Cola::desencolar': no todas las rutas de acceso de control devuelven un valor
+C:\Users\DELL\OneDrive\Documentos\UDO\4to Semestre\Datos III\Codigos\Semestre_4\Semestre_4\Semestre_4.cpp(104,1): warning C4715: 'Cola::ver_frente': no todas las rutas de acceso de control devuelven un valor
+C:\Users\DELL\OneDrive\Documentos\UDO\4to Semestre\Datos III\Codigos\Semestre_4\Semestre_4\Semestre_4.cpp(179,1): warning C4715: 'Pila::pop': no todas las rutas de acceso de control devuelven un valor
+  Semestre_4.vcxproj -> C:\Users\DELL\OneDrive\Documentos\UDO\4to Semestre\Datos III\Codigos\Semestre_4\x64\Debug\Semestre_4.exe
